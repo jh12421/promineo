@@ -1,0 +1,12 @@
+
+body {
+  background-color: silver;
+}
+  /* centered text, color red, font italic*/
+h2{
+  text-align: center;
+  color: crimson;
+  font-style: italic;
+}
+ 
+

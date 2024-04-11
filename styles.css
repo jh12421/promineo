@@ -1,0 +1,17 @@
+/* changes my background color*/
+body {
+  background-color :dimgrey;
+}
+h1 {
+  /*centers my heading*/
+  text-align: center;
+  /*changes header color*/
+  color :aquamarine;
+}
+/* center class, images in the center*/
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
